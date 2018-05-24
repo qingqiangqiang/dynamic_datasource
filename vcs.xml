@@ -30,6 +30,10 @@
           <option name="url" value="http://gitlab.leoao-inc.com/infrastructure/xxl-job.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.leoao-inc.com:pt/datax-all.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/leoao/product" />
