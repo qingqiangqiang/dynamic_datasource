@@ -3,6 +3,7 @@
     <option name="excludedRules">
       <set>
         <option value="java:S1168" />
+        <option value="java:S1854" />
       </set>
     </option>
   </component>
